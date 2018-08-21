@@ -1,7 +1,7 @@
 # gae-typescript-express-example
 
 - GAE standard for node8 with typescript examples
-- transpiling .ts to .js by `prestart`
+- `prestart` scripts transpile automatically .ts to .js, when deployed to GAE.
 - when local development is served with nodemon and ts-node
   - run `npm run watch`
 
