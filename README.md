@@ -1,5 +1,7 @@
 # gae-typescript-express-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/9bic/gae-typescript-express-example.svg)](https://greenkeeper.io/)
+
 - GAE standard for node8 with typescript examples
 - `prestart` scripts transpile automatically .ts to .js, when deployed to GAE.
 - when local development is served with nodemon and ts-node
